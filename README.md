@@ -12,6 +12,7 @@
     import requests
 
 #使用selenium webdriver進行抓取
+
     from selenium import webdriver
     chromedriver="D:\chromedriver_win32/chromedriver"
     driver=webdriver.Chrome(chromedriver)
