@@ -11,6 +11,11 @@
     import csv
     import requests
 
+檔案儲存路徑與檔案名稱
+
+    place_for_store="C:/Users/user/Desktop/python pracice/stock data/output_stock_price.csv"
+
+
 #使用selenium webdriver進行抓取
 
     from selenium import webdriver
