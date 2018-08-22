@@ -2,7 +2,8 @@
 快速抓取股票價格，包含最低價、最高價、收盤價等等
 
 以下是爬蟲抓下來的資料範例
-(輸出範例)[Get_stock_price/output_example_for_stock_price.csv]
+
+(輸出範例)[https://github.com/ChenTzYu/Get_stock_price/blob/master/output_example_for_stock_price.csv]
 
 環境設置
 
